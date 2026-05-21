@@ -1,5 +1,5 @@
 /* ===== LOCK SCREEN ===== */
-const PASSCODE = '0612'; // 기본 비밀번호 (변경 가능)
+const PASSCODE = '0511'; // 기본 비밀번호 (변경 가능)
 let lockBuffer = '';
 let lockFailed = 0;
 
