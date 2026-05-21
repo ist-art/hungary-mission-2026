@@ -17,7 +17,7 @@
 
 ### 비밀번호 변경 (`js/app.js` 1번째 줄)
 ```js
-const PASSCODE = '0612'; // ← 여기 변경
+const PASSCODE = '0511'; // ← 여기 변경
 ```
 
 ### 팀원 추가 (`index.html` → `id="teamGrid"` 검색)
